@@ -1,0 +1,20 @@
+{
+  "name": "issue-reka-ui-checkbox-group",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.2",
+    "lucide-vue-next": "^0.469.0",
+    "nuxt": "^3.15.0",
+    "reka-ui": "1.0.0-alpha.7",
+    "vue": "latest",
+    "vue-router": "latest"
+  }
+}
